@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "name": "hat",
+      "display_name": "leather hat",
+      "description": "a black hat with leather",
+      "_id": 2
+    }
+  ],
+  "products": [
+    {
+      "category": "shoes",
+      "name": "heels",
+      "display_name": "high heels",
+      "description": "colorful high heels",
+      "_id": 1
+    }
+  ]
+}
