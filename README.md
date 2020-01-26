@@ -6,8 +6,9 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/Saja-401-advanced-javascript/simple-api/pull/1)
 - [swagger hub page ](https://app.swaggerhub.com/apis/SajaSwalgah/class-06/0.1) 
+- [docs URL](docs/docs.json)
 
 ### Setup
 PORT = 3000
